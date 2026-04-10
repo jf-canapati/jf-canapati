@@ -53,18 +53,7 @@
 
 </div>
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jf-canapati&show_icons=true&hide_border=true&bg_color=f0faf0&title_color=4a9e6b&icon_color=7ec8a0&text_color=3a6b4a&border_radius=12" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jf-canapati&layout=compact&hide_border=true&bg_color=f0faf0&title_color=4a9e6b&text_color=3a6b4a&border_radius=12" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jf-canapati&hide_border=true&background=f0faf0&stroke=90EE90&ring=7ec8a0&fire=a8e6cf&currStreakLabel=4a9e6b&sideLabels=4a9e6b&dates=3a6b4a&currStreakNum=4a9e6b&sideNums=4a9e6b" width="55%" />
-</div>
 
 
 ---
