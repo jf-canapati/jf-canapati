@@ -66,9 +66,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jf-canapati&hide_border=true&background=f0faf0&stroke=90EE90&ring=7ec8a0&fire=a8e6cf&currStreakLabel=4a9e6b&sideLabels=4a9e6b&dates=3a6b4a&currStreakNum=4a9e6b&sideNums=4a9e6b" width="55%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jf-canapati&bg_color=f0faf0&color=4a9e6b&line=7ec8a0&point=90EE90&area=true&area_color=c7f2c7&hide_border=true" width="95%" />
-</div>
 
 ---
 
@@ -81,15 +78,7 @@
 
 </div>
 
----
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jf-canapati/jf-canapati/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
 
 <div align="center">
 
